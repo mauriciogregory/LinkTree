@@ -42,7 +42,7 @@ figcaption {
 li {
     text-align: center;
     background-color: rgb(207, 184, 184);
-    width: 430px;
+    width: auto;
     height: 44px;
     border: solid tomato 1px;
     margin: 10px;
